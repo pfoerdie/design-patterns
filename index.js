@@ -29,8 +29,3 @@ exports.BehavioralPatterns = {
     TemplateMethod: require("./BehavioralPatterns/TemplateMethod"),
     Visitor: require("./BehavioralPatterns/Visitor")
 };
-
-Object.freeze(exports);
-Object.freeze(exports.CreationalPatterns);
-Object.freeze(exports.StructuralPatterns);
-Object.freeze(exports.BehavioralPatterns);

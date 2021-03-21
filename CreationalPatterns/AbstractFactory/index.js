@@ -1,1 +1,1 @@
-module.exports = null;
+exports.structure = require('./structure');
