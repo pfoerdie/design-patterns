@@ -1,4 +1,4 @@
-# Design Patterns
+# @pfoerdie/design-patterns
 
 ## Creational Patterns
 
